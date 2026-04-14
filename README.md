@@ -22,7 +22,7 @@ Personal writeups for Capture The Flag challenges across all major categories. E
 
 Each writeup follows a consistent structure:
 
-- **Summary** — one-sentence overview of the challenge and solve
-- **Approach** — step-by-step walkthrough of what was done
-- **Vulnerability** — technical explanation of the flaw
-- **Key Takeaways** — lessons learned, defenses, real-world relevance
+- **Summary**
+- **Approach**
+- **Vulnerability**
+- **Key Takeaways**
