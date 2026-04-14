@@ -8,7 +8,7 @@ Personal writeups for Capture The Flag challenges across all major categories. E
 
 | Category | Challenges |
 |----------|-----------|
-| [Web Exploitation](Web-Exploitation/README.md) | 8 |
+| [Web Exploitation](Web-Exploitation/README.md) | 12 |
 | [Cryptography](Cryptography/README.md) | 0 |
 | [Reverse Engineering](Reverse-Engineering/README.md) | 0 |
 | [Forensics](Forensics/README.md) | 0 |
