@@ -1,4 +1,4 @@
-# CLAUDE.md — CTF Writeups Repo
+# CLAUDE.md - CTF Writeups Repo
 
 This file tells Claude how to work in this repository.
 
@@ -8,7 +8,7 @@ This file tells Claude how to work in this repository.
 
 ```
 CTF-Writeups/
-├── README.md                        # Root index — update challenge counts when adding writeups
+├── README.md                        # Root index (update challenge counts when adding writeups)
 ├── CLAUDE.md                        # This file
 ├── Web-Exploitation/
 │   ├── README.md                    # Category index table
@@ -47,7 +47,7 @@ One sentence: what the challenge was and how it was solved.
 Numbered steps of exactly what was done. Include commands, payloads, and tool names.
 
 ## Vulnerability
-Technical explanation of the flaw — what was broken and why.
+Technical explanation of the flaw: what was broken and why.
 
 ## Key Takeaways
 - Lessons learned
@@ -85,5 +85,5 @@ Technical explanation of the flaw — what was broken and why.
 
 - Platform focus: PicoCTF (primary), others as encountered
 - The user is building this repo to document CTF progress and reinforce security concepts
-- Writeups should be readable to someone learning — explain the "why", not just the "what"
+- Writeups should be readable to someone learning. Explain the "why", not just the "what"
 - Include real-world context and MITRE/OWASP references where relevant
