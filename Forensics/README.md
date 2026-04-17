@@ -15,6 +15,14 @@ Writeups for forensics CTF challenges. Topics include file carving, steganograph
 | [Hidden in Plain Sight](hidden-in-plain-sight.md) | Steganography with metadata-stored passphrase | Solved |
 | [Verify](verify.md) | SHA256 file integrity verification | Solved |
 | [Riddle Registry](riddle-registry.md) | Sensitive data in PDF metadata | Solved |
+| [Scan Surprise](scan-surprise.md) | QR code as visual data encoding | Solved |
+| [Secret of the Polyglot](secret-of-the-polyglot.md) | Polyglot file hiding data across two formats | Solved |
+| [Corrupted File](corrupted-file.md) | Corrupted magic bytes / file header repair | Solved |
+| [RED](red.md) | LSB steganography across image color channels | Solved |
+| [Information](information.md) | Sensitive data in image metadata | Solved |
+| [Glory of the Garden](glory-of-the-garden.md) | Appended data steganography / file trailer injection | Solved |
+| [Redaction Gone Wrong](redaction-gone-wrong.md) | Improperly redacted PDF text | Solved |
+| [Packets Primer](packets-primer.md) | Plaintext flag in PCAP payload | Solved |
 
 ---
 
