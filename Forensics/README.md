@@ -23,6 +23,8 @@ Writeups for forensics CTF challenges. Topics include file carving, steganograph
 | [Glory of the Garden](glory-of-the-garden.md) | Appended data steganography / file trailer injection | Solved |
 | [Redaction Gone Wrong](redaction-gone-wrong.md) | Improperly redacted PDF text | Solved |
 | [Packets Primer](packets-primer.md) | Plaintext flag in PCAP payload | Solved |
+| [Enhance!](enhance.md) | Hidden data in SVG source markup | Solved |
+| [Operation Orchid](operation-orchid.md) | AES-encrypted file recovered via shell history | Solved |
 
 ---
 
